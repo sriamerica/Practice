@@ -42,7 +42,8 @@ public class AbcTest {
 		System.out.println();
 
 		System.out.println("Hello India ");
-		System.out.println();
+		System.out.println("Hi Karnataka");
+		System.out.println("Hi Coorg");
 		System.out.println();
 	}
 
